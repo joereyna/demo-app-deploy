@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/joereyna/demo-app
-  newTag: c3033f096c2c0beaa4c8f739669597bcd13b7991
+  newTag: d306d9fe8c326d9dc19d572a612b04f1764569a5
